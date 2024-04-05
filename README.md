@@ -70,4 +70,13 @@ Unit tests are included to test both Kafka message passing and MongoDB persisten
 python -m unittest
 ```
 
-## Demo
+## Example
+
+### Producer
+![image](https://github.com/ViniciosLugli/2024-1A-T2-M9-A2/assets/40807526/aea2c1be-527a-4f83-a198-1527551f488d)
+
+### Consumer
+![image](https://github.com/ViniciosLugli/2024-1A-T2-M9-A2/assets/40807526/16f86926-5503-4036-aa45-93c9a42e3247)
+
+### Tests
+![image](https://github.com/ViniciosLugli/2024-1A-T2-M9-A2/assets/40807526/edba3c0c-2b10-421c-930a-b1c136c88242)
